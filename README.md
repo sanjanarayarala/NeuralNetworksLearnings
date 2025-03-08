@@ -1,7 +1,7 @@
 # NeuralNetworksLearnings
 
 ## Overview
-This repository is dedicated to implementing and understanding neural network concepts from scratch, without relying on deep learning libraries such as TensorFlow or PyTorch, as I follow YT lectures. The primary goal is to build a strong foundation in neural networks by implementing key concepts using only fundamental Python capabilities and NumPy.
+This repository is dedicated to implementing and understanding neural network concepts from scratch without relying on deep learning libraries such as TensorFlow or PyTorch, as I follow YT lectures, and compare with how neural networks are implemented with DL frameworks. The primary goal is to build a strong foundation in neural networks by implementing key concepts using only fundamental Python capabilities and NumPy.
 
 ## Why This Repository?
 In the era of powerful deep learning frameworks, it's easy to use high-level APIs without fully grasping the underlying mechanics. By developing neural networks from first principles, this repository aims to:
@@ -27,6 +27,11 @@ This repository will cover the following core topics in neural networks:
 5. **Custom Implementations**
    - Custom activation functions
    - Experimenting with different architectures
+6. **Advanced DL models**
+   - RNN
+   - LSTMS
+   - Seq 2 Seq
+   - Transformers
 
 ## Prerequisites
 To follow along, you should have:
